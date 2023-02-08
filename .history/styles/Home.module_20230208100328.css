@@ -1,0 +1,45 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 6rem;
+  
+}
+.header{
+  color: var(--primary-color);
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.subhead{
+  color: var(--primary-color);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
+.aboutbtn{
+  color: var(--primary-color);
+  background: none;
+  border: 0.2em solid white;
+  border-radius: 4rem;
+  padding: 0.5em;
+}
+
+.aboutbtn:hover{
+  background-color: white;
+  color: var(--ternary-color);
+}
+
+.contactbtn{
+  color: var(--primary-color);
+  background: none;
+  border: 0.2em solid white;
+  border-radius: 4rem;
+  padding: 0.5em;
+
+}
+
+.contactbtn:hover{
+  background-color: white;
+  color: var(--ternary-color);
+}

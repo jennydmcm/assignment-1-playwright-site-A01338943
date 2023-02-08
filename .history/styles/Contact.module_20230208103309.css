@@ -1,0 +1,39 @@
+.main{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6rem;
+}
+.cntacthead{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 8rem;
+}
+.line{
+    border-top: none;
+    border-bottom: 0.2rem solid var(--secondary-color);
+    border-left: none;
+    border-right: none;
+    width: 20rem;
+}
+.header{
+    color: var(--primary-color);
+    font-family: Arial, Helvetica, sans-serif;
+    /*padding-bottom: 8rem;*/
+    padding-left: 2rem;
+    padding-right: 2rem;
+   
+    
+
+}
+.subhead{
+    display: flex;
+    padding-top: 20rem;
+    justify-content: center;
+    color: var(--primary-color);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}

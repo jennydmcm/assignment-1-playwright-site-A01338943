@@ -1,0 +1,74 @@
+.main{
+    background-color: var(--ternary-color);
+    color: var(--primary-color);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    padding: 5rem;
+    padding-bottom: 5rem;
+
+}
+
+
+.infosesh{
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    padding-bottom: 3rem;
+    
+}
+
+.bigInfo{
+    padding-top: 1.5rem;
+
+}
+
+.tours{
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    padding-bottom: 3rem;
+    
+}
+
+.dept{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20rem;
+    padding-bottom: 20rem;
+    align-items: center;
+    
+
+}
+
+.aboutTitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.mainText{
+    padding-top: 1.5rem;
+   
+}
+
+.lines{
+    border-top: none;
+    border-bottom: 0.2rem solid var(--secondary-color);
+    border-left: none;
+    border-right: none;
+    width: 20rem;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+

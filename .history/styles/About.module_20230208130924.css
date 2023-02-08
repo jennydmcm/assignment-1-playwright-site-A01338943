@@ -1,0 +1,20 @@
+.main{
+    background-color: var(--ternary-color);
+    color: var(--primary-color);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+}
+.infosesh{
+    display: flex;
+}
+
+.tours{
+    display: flex;
+}
+

@@ -1,0 +1,7 @@
+.main{
+    background-color: var(--ternary-color);
+    color: var(--primary-color);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    
+}
